@@ -1,0 +1,4 @@
+node_modules/
+config/environments/*
+!config/environments/example.js
+npm-debug.log
